@@ -1,0 +1,11 @@
+1.首先你需要有一个顶级域名，你可以去注册一个,比如:namesilo,cheapname,Godaddy等。
+2.修改域名的DNS到he.net等待生效即可。
+ns1.he.net
+ns2.he.net
+ns3.he.net
+ns4.he.net
+ns5.he.net
+3.注册一个he.net的账户并添加你注册好的域名
+4.创建一条AAAA解析记录并勾选 "nable entry for dynamic dns"
+5.添加对应域名记录的DDNS的key
+6.运行本脚本填写好你的对应信息即可。
